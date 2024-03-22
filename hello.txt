@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 1 line
-2 line
-First line
+<<<<<<< Updated upstream
 Second line
 >>>>>>> bb8caec (First commit from new_branch)
+3 line
+>>>>>>> Stashed changes
